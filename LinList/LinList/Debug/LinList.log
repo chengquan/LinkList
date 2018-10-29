@@ -1,0 +1,3 @@
+﻿  LinList.cpp
+d:\github\linklist\linlist\linlist\linlist.cpp(11): warning C4091: “typedef ”: 没有声明变量时忽略“Linklist”的左侧
+  LinList.vcxproj -> D:\GitHub\LinkList\LinList\Debug\LinList.exe
